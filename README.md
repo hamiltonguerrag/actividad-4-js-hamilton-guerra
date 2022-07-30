@@ -15,4 +15,4 @@ Aquí se encontrarán las actividades realizadas en casa propuestas por el profe
 
 ## Imagen: Parte 3
 
-![actividad5 js](https://user-images.githubusercontent.com/105325997/181157150-82ecfc16-b9e6-4765-b0f2-8922a46f5c5d.png)
+
